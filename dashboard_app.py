@@ -84,7 +84,7 @@ def main():
 
     # --- 1. HERO HEADER ---
     st.markdown("<h1>Indian Market Sentiment Tracker</h1>", unsafe_allow_html=True)
-    st.markdown("<p style='text-align: center;'>AI-Driven Analysis of Corporate Earnings Calls & Reports</p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center;'>Analysis of Corporate Earnings Calls & Reports</p>", unsafe_allow_html=True)
     st.markdown("---")
 
     # --- 2. THREE-COLUMN METRIC CARDS ---
@@ -238,3 +238,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
